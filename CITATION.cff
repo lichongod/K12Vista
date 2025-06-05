@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chong
+    given-names: Li
+  - family-names: Chenglin
+    given-names: Zhu
+  - family-names: Tao
+    given-names: Zhang
+  - family-names: Mingan
+    given-names: Lin
+  - family-names: Zena
+    given-names: Zhou 
+  - family-names: Jian
+    given-names: Xie
+title: "K12Vista:Exploring the Boundaries of MLLMs in K-12 Education"
+version: "1.0.0"
+url: "GitHub - lichongod/K12Vista-Exploring-the-Boundaries-of-MLLMs-in-K-12-Education"
+year: 2025
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Li
+    given-names: Chong
+  - family-names: Zhu
+    given-names: Chenglin
+  - family-names: Zhang
+    given-names: Tao
+  - family-names: Lin
+    given-names: Mingan
+  - family-names: Zhou
+    given-names: Zenan
+  - family-names: Xie
+    given-names: Jian
+  title: "K12Vista:Exploring the Boundaries of MLLMs in K-12 Education"
+  version: "1.0.0"
+  url: "GitHub - lichongod/K12Vista-Exploring-the-Boundaries-of-MLLMs-in-K-12-Education"
+  year: 2025
